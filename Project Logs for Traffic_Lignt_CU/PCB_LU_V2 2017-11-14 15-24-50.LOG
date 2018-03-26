@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=3V3 NewDesignator=1
+Change Component Designator: OldDesignator=C40 NewDesignator=C41
+Change Component Designator: OldDesignator=C41 NewDesignator=C42
+Change Component Designator: OldDesignator=C42 NewDesignator=C43
+Change Component Designator: OldDesignator=C43 NewDesignator=C44
+Change Component Designator: OldDesignator=C44 NewDesignator=C45
+Change Component Designator: OldDesignator=C45 NewDesignator=C46
+Change Component Designator: OldDesignator=D39 NewDesignator=D40
+Change Component Designator: OldDesignator=D40 NewDesignator=D41
+Change Component Designator: OldDesignator=D41 NewDesignator=D39
+Change Component Designator: OldDesignator=VCCIN5V NewDesignator=VCCIN1
+Added Component: Designator=C40(LC-0603_C)
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=C40-1
+Added Pin To Net: NetName=3V3 Pin=C40-2
+Change Net Name : Old Net Name=NetD39_A New Net Name=NetD40_A
+Change Net Name : Old Net Name=NetD39_K New Net Name=NetD40_K
+Change Net Name : Old Net Name=NetD41_A New Net Name=NetD39_A
+Change Net Name : Old Net Name=NetD41_K New Net Name=NetD39_K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C46 100nf
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

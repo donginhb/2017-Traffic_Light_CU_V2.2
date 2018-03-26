@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=SIX-INPORT Member=D25
+Removed Member From Class: ClassName=SIX-INPORT Member=D26
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D30
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D31
+Removed Member From Class: ClassName=SIX-INPORT Member=R54
+Removed Member From Class: ClassName=SIX-INPORT Member=R56
+Removed Member From Class: ClassName=SIX-INPORT Member=R59
+Removed Member From Class: ClassName=SIX-INPORT Member=R65
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R88
+Added Member To Class: ClassName=SIX-INPORT Member=Component C27 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component D20 MB10S
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D28 °×µÆ 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D29 °×µÆ 0805
+Added Member To Class: ClassName=SIX-INPORT Member=Component R46 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R47 4302/1W
+Added Member To Class: ClassName=SIX-INPORT Member=Component R52 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R53 4302/1W
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R76 1K

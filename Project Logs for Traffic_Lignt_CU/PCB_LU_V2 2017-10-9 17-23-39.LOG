@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=EGND Pin=EC7-2
+Removed Pin From Net: NetName=EGND Pin=EC8-2
+Removed Pin From Net: NetName=EGND Pin=ER8-2
+Added Pin To Net: NetName=GND Pin=EC7-2
+Added Pin To Net: NetName=GND Pin=EC8-2
+Added Pin To Net: NetName=GND Pin=ER8-2
+Added Net: Name=GND
+Added Member To Class: ClassName=POWER Member=Component EC5 103 200V

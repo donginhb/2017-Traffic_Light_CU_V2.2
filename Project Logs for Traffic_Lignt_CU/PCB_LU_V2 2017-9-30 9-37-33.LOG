@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=V_RELAY Pin=KM?-1
+Removed Pin From Net: NetName=NetD26_K Pin=KM?-2
+Removed Pin From Net: NetName=NetD28_K Pin=KM?-2
+Removed Pin From Net: NetName=KM2- Pin=KM?-3
+Removed Pin From Net: NetName=KM3- Pin=KM?-3
+Removed Pin From Net: NetName=KM2+ Pin=KM?-4
+Removed Pin From Net: NetName=KM3+ Pin=KM?-4
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=KM?
+Change Component Footprint: Designator=KM? Old Footprint=LD-4P New Footprint=G5NB-1A-5V
+Change Component Designator: OldDesignator=F? NewDesignator=F11
+Change Component Designator: OldDesignator=KM? NewDesignator=KM1
+Added Component: Designator=KM2(G5NB-1A-5V)
+Added Component: Designator=KM3(G5NB-1A-5V)
+Added Component: Designator=KM4(G5NB-1A-5V)
+Added Component: Designator=KM5(G5NB-1A-5V)
+Added Component: Designator=KM6(G5NB-1A-5V)
+Added Component: Designator=KM7(G5NB-1A-5V)
+Added Component: Designator=KM8(G5NB-1A-5V)
+Added Pin To Net: NetName=NetD23_K Pin=KM1-2
+Added Pin To Net: NetName=KM1- Pin=KM1-3
+Added Pin To Net: NetName=KM1+ Pin=KM1-4
+Added Pin To Net: NetName=V_RELAY Pin=KM2-1
+Added Pin To Net: NetName=NetD26_K Pin=KM2-2
+Added Pin To Net: NetName=KM2- Pin=KM2-3
+Added Pin To Net: NetName=KM2+ Pin=KM2-4
+Added Pin To Net: NetName=V_RELAY Pin=KM3-1
+Added Pin To Net: NetName=NetD28_K Pin=KM3-2
+Added Pin To Net: NetName=KM3- Pin=KM3-3
+Added Pin To Net: NetName=KM3+ Pin=KM3-4
+Added Pin To Net: NetName=V_RELAY Pin=KM4-1
+Added Pin To Net: NetName=NetD30_K Pin=KM4-2
+Added Pin To Net: NetName=KM4- Pin=KM4-3
+Added Pin To Net: NetName=KM4+ Pin=KM4-4
+Added Pin To Net: NetName=V_RELAY Pin=KM5-1
+Added Pin To Net: NetName=NetD31_K Pin=KM5-2
+Added Pin To Net: NetName=KM5- Pin=KM5-3
+Added Pin To Net: NetName=KM5+ Pin=KM5-4
+Added Pin To Net: NetName=V_RELAY Pin=KM6-1
+Added Pin To Net: NetName=NetD33_K Pin=KM6-2
+Added Pin To Net: NetName=KM6- Pin=KM6-3
+Added Pin To Net: NetName=KM6+ Pin=KM6-4
+Added Pin To Net: NetName=V_RELAY Pin=KM7-1
+Added Pin To Net: NetName=NetD35_K Pin=KM7-2
+Added Pin To Net: NetName=KM7- Pin=KM7-3
+Added Pin To Net: NetName=KM7+ Pin=KM7-4
+Added Pin To Net: NetName=V_RELAY Pin=KM8-1
+Added Pin To Net: NetName=NetD37_K Pin=KM8-2
+Added Pin To Net: NetName=KM8- Pin=KM8-3
+Added Pin To Net: NetName=KM8+ Pin=KM8-4
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM1 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM2 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM3 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM4 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM5 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM6 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM7 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM8 HF49FD/012-1H11

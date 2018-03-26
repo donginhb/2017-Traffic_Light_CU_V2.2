@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=NetD26_K Pin=KM1-2
+Removed Pin From Net: NetName=NetD28_K Pin=KM2-2
+Removed Pin From Net: NetName=NetD30_K Pin=KM3-2
+Removed Pin From Net: NetName=NetD32_K Pin=KM4-2
+Removed Pin From Net: NetName=NetD13_3 Pin=R18-2
+Removed Pin From Net: NetName=NetD13_1 Pin=R23-2
+Removed Pin From Net: NetName=NetD15_3 Pin=R25-2
+Removed Pin From Net: NetName=NetD15_1 Pin=R29-2
+Removed Pin From Net: NetName=NetD17_3 Pin=R32-2
+Removed Pin From Net: NetName=NetD17_1 Pin=R36-2
+Removed Pin From Net: NetName=NetD19_3 Pin=R39-2
+Removed Pin From Net: NetName=NetD19_1 Pin=R43-2
+Added Component: Designator=GND1(CHECK-B)
+Added Component: Designator=R15(LC-0603_R)
+Added Component: Designator=R16(LC-0603_R)
+Added Component: Designator=R17(LC-0603_R)
+Added Component: Designator=R46(LC-0603_R)
+Added Component: Designator=R50(LC-0603_R)
+Added Component: Designator=R51(LC-0603_R)
+Added Component: Designator=R52(LC-0603_R)
+Added Component: Designator=R53(LC-0603_R)
+Added Component: Designator=R55(LC-0603_R)
+Added Component: Designator=R56(LC-0603_R)
+Added Component: Designator=R57(LC-0603_R)
+Added Component: Designator=R58(LC-0603_R)
+Added Pin To Net: NetName=GND Pin=GND1-1
+Added Pin To Net: NetName=NetD32_K Pin=KM1-2
+Added Pin To Net: NetName=NetD30_K Pin=KM2-2
+Added Pin To Net: NetName=NetD28_K Pin=KM3-2
+Added Pin To Net: NetName=NetD26_K Pin=KM4-2
+Added Pin To Net: NetName=PUTIN_12V Pin=R15-1
+Added Pin To Net: NetName=PUTIN_12V Pin=R16-1
+Added Pin To Net: NetName=PUTIN_12V Pin=R17-1
+Added Pin To Net: NetName=NetD13_1 Pin=R18-2
+Added Pin To Net: NetName=NetD13_3 Pin=R23-2
+Added Pin To Net: NetName=NetD15_1 Pin=R25-2
+Added Pin To Net: NetName=NetD15_3 Pin=R29-2
+Added Pin To Net: NetName=NetD17_1 Pin=R32-2
+Added Pin To Net: NetName=NetD17_3 Pin=R36-2
+Added Pin To Net: NetName=NetD19_1 Pin=R39-2
+Added Pin To Net: NetName=NetD19_3 Pin=R43-2
+Added Pin To Net: NetName=PUTIN_12V Pin=R46-1
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=R55-2
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=R56-2
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=R57-2
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=R58-2
+Added Pin To Net: NetName=KM5 Pin=R50-2
+Added Pin To Net: NetName=KM5 Pin=R55-1
+Added Net: Name=KM5
+Added Pin To Net: NetName=KM6 Pin=R51-2
+Added Pin To Net: NetName=KM6 Pin=R56-1
+Added Net: Name=KM6
+Added Pin To Net: NetName=KM7 Pin=R52-2
+Added Pin To Net: NetName=KM7 Pin=R57-1
+Added Net: Name=KM7
+Added Pin To Net: NetName=KM8 Pin=R53-2
+Added Pin To Net: NetName=KM8 Pin=R58-1
+Added Net: Name=KM8
+Added Pin To Net: NetName=NetD21_A Pin=R15-2
+Added Net: Name=NetD21_A
+Added Pin To Net: NetName=NetD21_K Pin=U13-14
+Added Net: Name=NetD21_K
+Added Pin To Net: NetName=NetD22_A Pin=R16-2
+Added Net: Name=NetD22_A
+Added Pin To Net: NetName=NetD22_K Pin=U13-13
+Added Net: Name=NetD22_K
+Added Pin To Net: NetName=NetD23_A Pin=R17-2
+Added Net: Name=NetD23_A
+Added Pin To Net: NetName=NetD23_K Pin=U13-12
+Added Net: Name=NetD23_K
+Added Pin To Net: NetName=NetD24_A Pin=R46-2
+Added Net: Name=NetD24_A
+Added Pin To Net: NetName=NetD24_K Pin=U13-11
+Added Net: Name=NetD24_K
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=U13-5
+Added Net: Name=NetR50_1
+Added Pin To Net: NetName=NetR51_1 Pin=R51-1
+Added Pin To Net: NetName=NetR51_1 Pin=U13-6
+Added Net: Name=NetR51_1
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR52_1 Pin=U13-7
+Added Net: Name=NetR52_1
+Added Pin To Net: NetName=NetR53_1 Pin=R53-1
+Added Pin To Net: NetName=NetR53_1 Pin=U13-8
+Added Net: Name=NetR53_1
+Added Member To Class: ClassName=POWER Member=Component GND1 CHECK
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R15 1K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R16 1K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R17 1K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R46 1K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R50 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R51 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R52 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R53 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R55 2K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R56 2K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R57 2K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R58 2K
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

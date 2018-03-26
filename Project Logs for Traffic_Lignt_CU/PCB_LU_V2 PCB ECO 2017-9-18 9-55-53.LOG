@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCCIN12V Pin=P1-1
+Removed Pin From Net: NetName=GNDIN Pin=P1-2
+Removed Pin From Net: NetName=VCCIN5V Pin=P2-1
+Removed Pin From Net: NetName=GNDIN Pin=P2-2
+Removed Pin From Net: NetName=RS458_A Pin=P3-1
+Removed Pin From Net: NetName=RS485_B Pin=P3-2
+Removed Pin From Net: NetName=LIGHTT Pin=P11-1
+Removed Pin From Net: NetName=PUTIN_3V3GND Pin=P11-2
+Removed Member From Class: ClassName=POWER Member=P1
+Removed Member From Class: ClassName=POWER Member=P2
+Removed Member From Class: ClassName=RS485 Member=P3
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P6
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P7
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P8
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P9
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=P11

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PA3_USART2_RX Pin=D26-K
+Removed Pin From Net: NetName=PA2_USART2_TX Pin=D27-K
+Removed Pin From Net: NetName=PA2_USART2_TX Pin=P13-1
+Removed Pin From Net: NetName=PA3_USART2_RX Pin=P13-2
+Added Pin To Net: NetName=PB11_USART3_RX Pin=D26-K
+Added Pin To Net: NetName=PB10_USART3_TX Pin=D27-K
+Added Pin To Net: NetName=PB10_USART3_TX Pin=P13-1
+Added Pin To Net: NetName=PB11_USART3_RX Pin=P13-2
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

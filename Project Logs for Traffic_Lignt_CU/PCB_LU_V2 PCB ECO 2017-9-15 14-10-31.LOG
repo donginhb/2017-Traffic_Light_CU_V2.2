@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PA8_RS485_2_RD Pin=U5-41
+Removed Pin From Net: NetName=LD1 Pin=U5-44
+Added Pin To Net: NetName=LD1 Pin=U5-41
+Added Pin To Net: NetName=PA8_RS485_2_RD Pin=U5-44

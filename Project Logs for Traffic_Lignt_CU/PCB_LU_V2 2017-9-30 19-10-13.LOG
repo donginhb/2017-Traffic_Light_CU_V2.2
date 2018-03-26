@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=P1-1
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=P1-2
+Added Pin To Net: NetName=PA9_USART1_TX Pin=P1-3
+Added Pin To Net: NetName=PA10_USART1_RX Pin=P1-4

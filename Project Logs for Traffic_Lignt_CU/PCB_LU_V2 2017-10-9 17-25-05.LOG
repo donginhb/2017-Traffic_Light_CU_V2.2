@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GNDIN Pin=EC6-2
+Removed Pin From Net: NetName=GNDIN Pin=ER6-2
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=EC6-2
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=ER6-2

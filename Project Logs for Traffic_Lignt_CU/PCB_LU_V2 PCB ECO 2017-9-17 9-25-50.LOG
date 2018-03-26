@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=PC5_1 Pin=D18-2
+Removed Pin From Net: NetName=NetC28_1 Pin=D18-4
+Removed Pin From Net: NetName=PC6_1 Pin=D20-2
+Removed Pin From Net: NetName=NetC31_1 Pin=D20-4
+Removed Member From Class: ClassName=RS485 Member=C6
+Removed Member From Class: ClassName=RS485 Member=C7
+Removed Member From Class: ClassName=POWER Member=C10
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=C27
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=C30
+Removed Member From Class: ClassName=SIX-INPORT Member=C35
+Removed Member From Class: ClassName=SIX-INPORT Member=C38
+Removed Member From Class: ClassName=SIX-INPORT Member=C39
+Removed Member From Class: ClassName=SIX-INPORT Member=C40
+Removed Member From Class: ClassName=SIX-INPORT Member=C41
+Removed Member From Class: ClassName=SIX-INPORT Member=C42
+Removed Member From Class: ClassName=SIX-INPORT Member=C44
+Removed Member From Class: ClassName=SIX-INPORT Member=C45
+Removed Member From Class: ClassName=SIX-INPORT Member=D24
+Removed Member From Class: ClassName=SIX-INPORT Member=D25
+Removed Member From Class: ClassName=SIX-INPORT Member=D26
+Removed Member From Class: ClassName=SIX-INPORT Member=D27
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=D27
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D34
+Removed Member From Class: ClassName=SIX-INPORT Member=F9
+Removed Member From Class: ClassName=SIX-INPORT Member=F10
+Removed Member From Class: ClassName=SIX-INPORT Member=R55
+Removed Member From Class: ClassName=SIX-INPORT Member=R56
+Removed Member From Class: ClassName=SIX-INPORT Member=R57
+Removed Member From Class: ClassName=SIX-INPORT Member=R59
+Removed Member From Class: ClassName=SIX-INPORT Member=R62
+Removed Member From Class: ClassName=SIX-INPORT Member=R65
+Removed Member From Class: ClassName=SIX-INPORT Member=R66
+Removed Member From Class: ClassName=SIX-INPORT Member=R67
+Removed Member From Class: ClassName=SIX-INPORT Member=R68
+Removed Member From Class: ClassName=SIX-INPORT Member=R72
+Removed Member From Class: ClassName=SIX-INPORT Member=R74
+Removed Member From Class: ClassName=SIX-INPORT Member=R75
+Removed Member From Class: ClassName=SIX-INPORT Member=R77
+Removed Member From Class: ClassName=SIX-INPORT Member=R78
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R78
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R83
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R84
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R85
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R88
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R91
+Added Pin To Net: NetName=NetC28_1 Pin=D19-2
+Added Pin To Net: NetName=NetC31_1 Pin=D21-2
+Added Pin To Net: NetName=PC5_1 Pin=P4-9
+Added Pin To Net: NetName=NetC28_1 Pin=P4-10
+Added Pin To Net: NetName=PC6_1 Pin=P4-11
+Added Pin To Net: NetName=NetC31_1 Pin=P4-12
+Added Pin To Net: NetName=PC5_1 Pin=R42-2
+Added Pin To Net: NetName=PC5_1 Pin=R44-2
+Added Pin To Net: NetName=PC6_1 Pin=R50-2
+Added Pin To Net: NetName=PC6_1 Pin=R51-2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=A/D_IN10
+Change Net Name : Old Net Name=NetC31_1 New Net Name=A/D_IN12
+Change Net Name : Old Net Name=PC5_1 New Net Name=A/D_IN9
+Change Net Name : Old Net Name=PC6_1 New Net Name=A/D_IN11
+Added Member To Class: ClassName=POWER Member=Component C7 104
+Added Member To Class: ClassName=RS485 Member=Component C9 104
+Added Member To Class: ClassName=RS485 Member=Component C10 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C27 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C28 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C29 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C30 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C31 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C32 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C33 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C34 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component D19 1N4148
+Added Member To Class: ClassName=SIX-INPORT Member=Component D21 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D29 白灯 0805
+Added Member To Class: ClassName=SIX-INPORT Member=Component R41 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R42 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R43 10K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R44 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R46 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R47 10K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R48 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R50 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R51 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R53 1K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R64 2K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R69 2K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R70 1K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R71 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R73 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R76 1K

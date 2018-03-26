@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ADDR_1 Pin=U5-35
+Removed Pin From Net: NetName=ADDR_2 Pin=U5-36
+Removed Pin From Net: NetName=KM3 Pin=U5-38
+Removed Pin From Net: NetName=KM2 Pin=U5-39
+Removed Pin From Net: NetName=KM1 Pin=U5-45
+Added Pin To Net: NetName=KM3 Pin=U5-34
+Added Pin To Net: NetName=KM2 Pin=U5-35
+Added Pin To Net: NetName=KM1 Pin=U5-36
+Added Pin To Net: NetName=ADDR_1 Pin=U5-38
+Added Pin To Net: NetName=ADDR_2 Pin=U5-39

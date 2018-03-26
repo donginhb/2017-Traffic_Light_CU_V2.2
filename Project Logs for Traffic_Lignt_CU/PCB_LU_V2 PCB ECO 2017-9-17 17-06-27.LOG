@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PA10_USART1_RX Pin=D30-K
+Removed Pin From Net: NetName=PA9_USART1_TX Pin=D31-K
+Removed Pin From Net: NetName=PA10_USART1_RX Pin=P10-1
+Removed Pin From Net: NetName=PA9_USART1_TX Pin=P10-2
+Added Pin To Net: NetName=PA9_USART1_TX Pin=D30-K
+Added Pin To Net: NetName=PA10_USART1_RX Pin=D31-K
+Added Pin To Net: NetName=PA9_USART1_TX Pin=P10-1
+Added Pin To Net: NetName=PA10_USART1_RX Pin=P10-2

@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetKM5_3 Pin=KM5-3
+Removed Pin From Net: NetName=NetKM5_4 Pin=KM5-4
+Removed Pin From Net: NetName=NetKM6_3 Pin=KM6-3
+Removed Pin From Net: NetName=NetKM6_4 Pin=KM6-4
+Removed Pin From Net: NetName=NetKM7_3 Pin=KM7-3
+Removed Pin From Net: NetName=NetKM7_4 Pin=KM7-4
+Removed Pin From Net: NetName=NetKM8_3 Pin=KM8-3
+Removed Pin From Net: NetName=NetKM8_4 Pin=KM8-4
+Removed Pin From Net: NetName=NetKM5_3 Pin=P6-1
+Removed Pin From Net: NetName=NetKM5_4 Pin=P6-2
+Removed Pin From Net: NetName=NetKM6_3 Pin=P7-1
+Removed Pin From Net: NetName=NetKM6_4 Pin=P7-2
+Removed Pin From Net: NetName=NetKM7_3 Pin=P14-1
+Removed Pin From Net: NetName=NetKM7_4 Pin=P14-2
+Removed Pin From Net: NetName=NetKM8_3 Pin=P15-1
+Removed Pin From Net: NetName=NetKM8_4 Pin=P15-2
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P6
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P7
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P14
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P15
+Added Component: Designator=P5(KF2EDG5.08-8P)
+Added Pin To Net: NetName=NetKM8_3 Pin=KM5-3
+Added Pin To Net: NetName=NetKM8_4 Pin=KM5-4
+Added Pin To Net: NetName=NetKM7_3 Pin=KM6-3
+Added Pin To Net: NetName=NetKM7_4 Pin=KM6-4
+Added Pin To Net: NetName=NetKM6_3 Pin=KM7-3
+Added Pin To Net: NetName=NetKM6_4 Pin=KM7-4
+Added Pin To Net: NetName=NetKM5_3 Pin=KM8-3
+Added Pin To Net: NetName=NetKM5_4 Pin=KM8-4
+Added Pin To Net: NetName=NetKM8_3 Pin=P5-1
+Added Pin To Net: NetName=NetKM8_4 Pin=P5-2
+Added Pin To Net: NetName=NetKM7_3 Pin=P5-3
+Added Pin To Net: NetName=NetKM7_4 Pin=P5-4
+Added Pin To Net: NetName=NetKM6_3 Pin=P5-5
+Added Pin To Net: NetName=NetKM6_4 Pin=P5-6
+Added Pin To Net: NetName=NetKM5_3 Pin=P5-7
+Added Pin To Net: NetName=NetKM5_4 Pin=P5-8
+Change Net Name : Old Net Name=NetKM5_3 New Net Name=KM8-
+Change Net Name : Old Net Name=NetKM5_4 New Net Name=KM8+
+Change Net Name : Old Net Name=NetKM6_3 New Net Name=KM7-
+Change Net Name : Old Net Name=NetKM6_4 New Net Name=KM7+
+Change Net Name : Old Net Name=NetKM7_3 New Net Name=KM6-
+Change Net Name : Old Net Name=NetKM7_4 New Net Name=KM6+
+Change Net Name : Old Net Name=NetKM8_3 New Net Name=KM5-
+Change Net Name : Old Net Name=NetKM8_4 New Net Name=KM5+
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component P5 Header 8

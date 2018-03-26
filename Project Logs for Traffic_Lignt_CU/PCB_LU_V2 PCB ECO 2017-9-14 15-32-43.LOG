@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=D18 Old Footprint=0603_LED_B New Footprint=LC-0603_LED_S1
+Change Component Footprint: Designator=D19 Old Footprint=0603_LED_B New Footprint=LC-0603_LED_S1
+Change Component Footprint: Designator=D20 Old Footprint=0603_LED_B New Footprint=LC-0603_LED_S1
+Change Component Footprint: Designator=D21 Old Footprint=0603_LED_B New Footprint=LC-0603_LED_S1
+Change Component Comment : Designator=D18 Old Comment=À¶µÆ 0603 New Comment=°×µÆ 0805
+Change Component Comment : Designator=D19 Old Comment=À¶µÆ 0603 New Comment=°×µÆ 0805
+Change Component Comment : Designator=D20 Old Comment=À¶µÆ 0603 New Comment=°×µÆ 0805
+Change Component Comment : Designator=D21 Old Comment=À¶µÆ 0603 New Comment=°×µÆ 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component P5 Header 8

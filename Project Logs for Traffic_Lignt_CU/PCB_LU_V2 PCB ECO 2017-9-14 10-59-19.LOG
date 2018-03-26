@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=SIX-INPORT Member=C30
+Removed Member From Class: ClassName=POWER Member=D29
+Removed Member From Class: ClassName=RS485 Member=E6
+Removed Member From Class: ClassName=SIX-INPORT Member=F2
+Removed Member From Class: ClassName=SIX-INPORT Member=R62
+Removed Member From Class: ClassName=SIX-INPORT Member=R74
+Removed Member From Class: ClassName=SIX-INPORT Member=R75
+Change Component Footprint: Designator=C1 Old Footprint=LC-0603_C New Footprint=LC-1206_C

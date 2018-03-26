@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=KM8- Pin=P7-1
+Removed Pin From Net: NetName=KM8+ Pin=P7-2
+Removed Pin From Net: NetName=KM7- Pin=P7-3
+Removed Pin From Net: NetName=KM7+ Pin=P7-4
+Removed Pin From Net: NetName=KM6- Pin=P7-5
+Removed Pin From Net: NetName=KM6+ Pin=P7-6
+Removed Pin From Net: NetName=KM5- Pin=P7-7
+Removed Pin From Net: NetName=KM5+ Pin=P7-8
+Removed Pin From Net: NetName=KM4- Pin=P7-9
+Removed Pin From Net: NetName=KM4+ Pin=P7-10
+Removed Pin From Net: NetName=KM3- Pin=P7-11
+Removed Pin From Net: NetName=KM3+ Pin=P7-12
+Removed Pin From Net: NetName=KM2- Pin=P7-13
+Removed Pin From Net: NetName=KM2+ Pin=P7-14
+Removed Pin From Net: NetName=KM1- Pin=P7-15
+Removed Pin From Net: NetName=KM1+ Pin=P7-16
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=P13
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R49
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=R69
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=R70
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=R71
+Added Pin To Net: NetName=KM1+ Pin=P7-5
+Added Pin To Net: NetName=KM1- Pin=P7-6
+Added Pin To Net: NetName=KM2+ Pin=P7-7
+Added Pin To Net: NetName=KM2- Pin=P7-8
+Added Pin To Net: NetName=KM3+ Pin=P7-9
+Added Pin To Net: NetName=KM3- Pin=P7-10
+Added Pin To Net: NetName=KM4+ Pin=P7-11
+Added Pin To Net: NetName=KM4- Pin=P7-12
+Added Pin To Net: NetName=KM5+ Pin=P7-13
+Added Pin To Net: NetName=KM5- Pin=P7-14
+Added Pin To Net: NetName=KM6+ Pin=P7-15
+Added Pin To Net: NetName=KM6- Pin=P7-16
+Added Pin To Net: NetName=KM7+ Pin=P7-17
+Added Pin To Net: NetName=KM7- Pin=P7-18
+Added Pin To Net: NetName=KM8+ Pin=P7-19
+Added Pin To Net: NetName=KM8- Pin=P7-20
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R53 1K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R74 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R75 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R77 1M

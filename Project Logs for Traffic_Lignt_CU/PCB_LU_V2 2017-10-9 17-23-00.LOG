@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=EGND Pin=EC6-1
+Removed Pin From Net: NetName=EGND Pin=EC7-1
+Removed Pin From Net: NetName=EGND Pin=EC8-1
+Removed Pin From Net: NetName=EGND Pin=EGND1-0
+Removed Pin From Net: NetName=EGND Pin=EGND2-0
+Removed Pin From Net: NetName=EGND Pin=EGND3-0
+Removed Pin From Net: NetName=EGND Pin=EGND4-0
+Removed Pin From Net: NetName=EGND Pin=ER5-1
+Removed Pin From Net: NetName=EGND Pin=ER6-1
+Removed Pin From Net: NetName=EGND Pin=ER7-1
+Removed Pin From Net: NetName=GND Pin=ER7-2
+Removed Pin From Net: NetName=EGND Pin=ER8-1
+Removed Member From Class: ClassName=POWER Member=ER7
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R54
+Added Component: Designator=EC5(LC-1206_C)
+Added Pin To Net: NetName=GND Pin=EC5-1
+Added Pin To Net: NetName=EGND Pin=EC5-2
+Added Pin To Net: NetName=GND Pin=EC6-1
+Added Pin To Net: NetName=GND Pin=EC7-1
+Added Pin To Net: NetName=GND Pin=EC8-1
+Added Pin To Net: NetName=GND Pin=EGND1-0
+Added Pin To Net: NetName=GND Pin=EGND2-0
+Added Pin To Net: NetName=GND Pin=EGND3-0
+Added Pin To Net: NetName=GND Pin=EGND4-0
+Added Pin To Net: NetName=GND Pin=ER5-1
+Added Pin To Net: NetName=GND Pin=ER6-1
+Added Pin To Net: NetName=GND Pin=ER8-1
+Change Net Name : Old Net Name=EGND New Net Name=GNDISO
+Change Net Name : Old Net Name=GND New Net Name=EGND
+Added Member To Class: ClassName=POWER Member=Component EC5 103 200V

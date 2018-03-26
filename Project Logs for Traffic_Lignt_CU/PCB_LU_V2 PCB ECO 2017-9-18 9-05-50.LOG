@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SW_DI2 Pin=U5-24
+Removed Pin From Net: NetName=SW_DI1 Pin=U5-25
+Removed Pin From Net: NetName=ADDR_3 Pin=U5-37
+Removed Pin From Net: NetName=ADDR_1 Pin=U5-38
+Removed Pin From Net: NetName=ADDR_2 Pin=U5-39
+Removed Pin From Net: NetName=ADDR_0 Pin=U5-40
+Removed Pin From Net: NetName=SW_DI3 Pin=U5-41
+Removed Pin From Net: NetName=SW_DI4 Pin=U5-55
+Added Pin To Net: NetName=SW_DI1 Pin=U5-37
+Added Pin To Net: NetName=SW_DI2 Pin=U5-38
+Added Pin To Net: NetName=SW_DI3 Pin=U5-39
+Added Pin To Net: NetName=ADDR_0 Pin=U5-41
+Added Pin To Net: NetName=SW_DI4 Pin=U5-45
+Added Pin To Net: NetName=ADDR_2 Pin=U5-52
+Added Pin To Net: NetName=ADDR_1 Pin=U5-53
+Added Pin To Net: NetName=ADDR_3 Pin=U5-54

@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=EC5-2
+Removed Pin From Net: NetName=GND Pin=EC6-2
+Removed Pin From Net: NetName=GND Pin=ER5-2
+Removed Pin From Net: NetName=GND Pin=ER6-2
+Removed Member From Class: ClassName=POWER Member=C12
+Removed Member From Class: ClassName=POWER Member=C13
+Removed Member From Class: ClassName=POWER Member=C17
+Removed Member From Class: ClassName=RS485 Member=C24
+Removed Member From Class: ClassName=RS485 Member=C31
+Removed Member From Class: ClassName=SIX-INPORT Member=C39
+Removed Member From Class: ClassName=SIX-INPORT Member=C41
+Removed Member From Class: ClassName=SIX-INPORT Member=C46
+Removed Member From Class: ClassName=POWER Member=D10
+Removed Member From Class: ClassName=RS485 Member=D12
+Removed Member From Class: ClassName=SIX-INPORT Member=D24
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D41
+Removed Member From Class: ClassName=RS485 Member=F5
+Removed Member From Class: ClassName=SIX-INPORT Member=F12
+Removed Member From Class: ClassName=RS485 Member=R17
+Removed Member From Class: ClassName=RS485 Member=R24
+Removed Member From Class: ClassName=POWER Member=R31
+Removed Member From Class: ClassName=RS485 Member=R31
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R54
+Removed Member From Class: ClassName=SIX-INPORT Member=R57
+Removed Member From Class: ClassName=SIX-INPORT Member=R58
+Removed Member From Class: ClassName=SIX-INPORT Member=R59
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R84
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R85
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R89
+Added Pin To Net: NetName=GNDISO Pin=EC5-2
+Added Pin To Net: NetName=GNDIN Pin=EC6-2
+Added Pin To Net: NetName=GNDISO Pin=ER5-2
+Added Pin To Net: NetName=GNDIN Pin=ER6-2
+Added Member To Class: ClassName=POWER Member=Component C7 100nf
+Added Member To Class: ClassName=POWER Member=Component C8 100nf
+Added Member To Class: ClassName=POWER Member=Component C9 104
+Added Member To Class: ClassName=RS485 Member=Component C12 104
+Added Member To Class: ClassName=RS485 Member=Component C13 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C14 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C15 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C16 10uf/16V
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C39 22pF
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C40 100nf
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D23 1N4148
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D40 绿灯 0603
+Added Member To Class: ClassName=RS485 Member=Component F3 JK250-120U
+Added Member To Class: ClassName=SIX-INPORT Member=Component F5 Fuse1
+Added Member To Class: ClassName=POWER Member=Component R7 10K
+Added Member To Class: ClassName=RS485 Member=Component R8 1K
+Added Member To Class: ClassName=RS485 Member=Component R9 1K
+Added Member To Class: ClassName=RS485 Member=Component R10 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R15 4302/1W
+Added Member To Class: ClassName=SIX-INPORT Member=Component R16 Res1
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R58 200R
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R81 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R82 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R83 10K
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=STM32F103最小系统板

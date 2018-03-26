@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PUTIN_3V3GND Pin=L5-2
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=L5
+Change Component Designator: OldDesignator=3v3 NewDesignator=1
+Added Pin To Net: NetName=GNDIN Pin=U3-9
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

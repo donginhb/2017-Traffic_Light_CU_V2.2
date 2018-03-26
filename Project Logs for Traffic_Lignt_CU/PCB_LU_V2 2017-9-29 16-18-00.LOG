@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=D33
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=D34
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D40
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D41
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D42
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D43
+Change Component Footprint: Designator=KM1 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM2 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM3 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM4 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM5 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM6 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM7 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Footprint: Designator=KM8 Old Footprint=Relay-1H11 New Footprint=G5NB-1A-5V
+Change Component Designator: OldDesignator=3.3V NewDesignator=1
+Change Component Designator: OldDesignator=D3 NewDesignator=D25
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D22 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D24 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D27 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D29 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D32 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D34 1N4148
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

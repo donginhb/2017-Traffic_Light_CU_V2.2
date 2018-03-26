@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=KM1- Pin=P5-1
+Removed Pin From Net: NetName=KM1+ Pin=P5-2
+Removed Pin From Net: NetName=KM2- Pin=P5-3
+Removed Pin From Net: NetName=KM2+ Pin=P5-4
+Removed Pin From Net: NetName=KM3- Pin=P5-5
+Removed Pin From Net: NetName=KM3+ Pin=P5-6
+Removed Pin From Net: NetName=KM4- Pin=P5-7
+Removed Pin From Net: NetName=KM4+ Pin=P5-8
+Added Pin To Net: NetName=KM4- Pin=P5-1
+Added Pin To Net: NetName=KM4+ Pin=P5-2
+Added Pin To Net: NetName=KM3- Pin=P5-3
+Added Pin To Net: NetName=KM3+ Pin=P5-4
+Added Pin To Net: NetName=KM2- Pin=P5-5
+Added Pin To Net: NetName=KM2+ Pin=P5-6
+Added Pin To Net: NetName=KM1- Pin=P5-7
+Added Pin To Net: NetName=KM1+ Pin=P5-8
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

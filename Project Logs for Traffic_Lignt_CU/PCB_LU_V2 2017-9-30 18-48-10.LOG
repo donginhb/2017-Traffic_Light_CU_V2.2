@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=KM7 Pin=U5-21
+Removed Pin From Net: NetName=KM6 Pin=U5-22
+Removed Pin From Net: NetName=KM5 Pin=U5-23
+Removed Pin From Net: NetName=KM4 Pin=U5-33
+Removed Pin From Net: NetName=KM3 Pin=U5-34
+Removed Pin From Net: NetName=KM2 Pin=U5-35
+Removed Pin From Net: NetName=KM1 Pin=U5-36
+Added Pin To Net: NetName=KM7 Pin=U5-33
+Added Pin To Net: NetName=KM6 Pin=U5-34
+Added Pin To Net: NetName=KM5 Pin=U5-35
+Added Pin To Net: NetName=KM4 Pin=U5-36
+Added Pin To Net: NetName=KM3 Pin=U5-37
+Added Pin To Net: NetName=KM2 Pin=U5-38
+Added Pin To Net: NetName=KM1 Pin=U5-39

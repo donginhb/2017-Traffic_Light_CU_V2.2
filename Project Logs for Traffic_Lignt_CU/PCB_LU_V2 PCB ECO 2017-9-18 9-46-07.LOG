@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND_IN Pin=P5-19
+Added Pin To Net: NetName=GNDIN Pin=P5-19

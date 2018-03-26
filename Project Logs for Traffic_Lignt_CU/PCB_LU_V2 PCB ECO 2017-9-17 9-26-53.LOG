@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X12H New Footprint=HDR1X12
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C35 22pF
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C36 22pF
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C37 100nf
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D30 绿灯 0603

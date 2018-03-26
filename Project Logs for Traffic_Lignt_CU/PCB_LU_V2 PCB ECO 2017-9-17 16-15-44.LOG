@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=ADDR_0 Pin=U5-20
+Removed Pin From Net: NetName=ADDR_1 Pin=U5-21
+Removed Pin From Net: NetName=ADDR_2 Pin=U5-22
+Removed Pin From Net: NetName=ADDR_3 Pin=U5-23
+Removed Pin From Net: NetName=ADDR_4 Pin=U5-24
+Removed Pin From Net: NetName=ADDR_5 Pin=U5-25
+Removed Pin From Net: NetName=ADDR_6 Pin=U5-26
+Removed Pin From Net: NetName=ADDR_7 Pin=U5-27
+Removed Member From Class: ClassName=SIX-INPORT Member=D25
+Removed Member From Class: ClassName=SIX-INPORT Member=D26
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D30
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D31
+Removed Member From Class: ClassName=SIX-INPORT Member=R54
+Removed Member From Class: ClassName=SIX-INPORT Member=R56
+Removed Member From Class: ClassName=SIX-INPORT Member=R59
+Removed Member From Class: ClassName=SIX-INPORT Member=R65
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R82
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R83
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R88
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R89
+Added Pin To Net: NetName=ADDR_7 Pin=U5-50
+Added Pin To Net: NetName=ADDR_6 Pin=U5-51
+Added Pin To Net: NetName=ADDR_5 Pin=U5-52
+Added Pin To Net: NetName=ADDR_4 Pin=U5-53
+Added Pin To Net: NetName=ADDR_3 Pin=U5-54
+Added Pin To Net: NetName=ADDR_2 Pin=U5-55
+Added Pin To Net: NetName=ADDR_1 Pin=U5-56
+Added Pin To Net: NetName=ADDR_0 Pin=U5-57
+Added Member To Class: ClassName=SIX-INPORT Member=Component C27 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component D18 MB10S
+Added Member To Class: ClassName=SIX-INPORT Member=Component D20 MB10S
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D22 白灯 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D23 白灯 0805
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D30 绿灯 0603
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D31 绿灯 0603
+Added Member To Class: ClassName=SIX-INPORT Member=Component R40 4302/1W
+Added Member To Class: ClassName=SIX-INPORT Member=Component R45 4302/1W
+Added Member To Class: ClassName=SIX-INPORT Member=Component R46 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R47 4302/1W
+Added Member To Class: ClassName=SIX-INPORT Member=Component R52 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R53 4302/1W
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R55 200R
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R56 2K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R57 1K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R78 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R79 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R80 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R81 1M

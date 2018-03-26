@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=EGND Pin=EC5-1
+Removed Member From Class: ClassName=POWER Member=EC5
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R54
+Added Pin To Net: NetName=EGND Pin=ADuM1-5
+Added Pin To Net: NetName=EGND Pin=B1-3
+Added Pin To Net: NetName=EGND Pin=C10-2
+Added Pin To Net: NetName=EGND Pin=C12-1
+Added Pin To Net: NetName=EGND Pin=E8-2
+Added Pin To Net: NetName=EGND Pin=ER5-2
+Added Pin To Net: NetName=EGND Pin=N1-3
+Added Pin To Net: NetName=EGND Pin=R12-1
+Added Pin To Net: NetName=EGND Pin=RS1-5
+Added Pin To Net: NetName=EGND Pin=TVS1-2
+Added Pin To Net: NetName=EGND Pin=TVS3-1

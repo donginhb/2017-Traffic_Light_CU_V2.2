@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetF2_2 Pin=P5-17
+Added Pin To Net: NetName=NetF3_2 Pin=P5-18
+Change Net Name : Old Net Name=NetF2_2 New Net Name=RS485_B
+Change Net Name : Old Net Name=NetF3_2 New Net Name=RS458_A

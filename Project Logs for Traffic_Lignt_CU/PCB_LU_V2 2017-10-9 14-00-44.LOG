@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=E4 NewDesignator=E5
+Change Component Designator: OldDesignator=E5 NewDesignator=E6
+Change Component Designator: OldDesignator=E6 NewDesignator=E7
+Change Component Designator: OldDesignator=E7 NewDesignator=E8
+Change Component Designator: OldDesignator=E8 NewDesignator=E9
+Added Component: Designator=E4(LC-CASE-B_3528)
+Added Pin To Net: NetName=VCCIN5V Pin=E4-1
+Added Pin To Net: NetName=GNDIN Pin=E4-2
+Added Member To Class: ClassName=POWER Member=Component E9 22uF
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

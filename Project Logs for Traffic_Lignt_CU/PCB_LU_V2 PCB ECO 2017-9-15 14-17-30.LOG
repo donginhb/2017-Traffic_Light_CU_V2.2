@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC5V Pin=VCC1-1
+Removed Member From Class: ClassName=POWER Member=VCC1
+Change Component Designator: OldDesignator=1 NewDesignator=3V3

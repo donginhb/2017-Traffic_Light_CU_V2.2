@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PUTIN_12V Pin=U3-10
+Added Pin To Net: NetName=VCCIN5V Pin=U3-10

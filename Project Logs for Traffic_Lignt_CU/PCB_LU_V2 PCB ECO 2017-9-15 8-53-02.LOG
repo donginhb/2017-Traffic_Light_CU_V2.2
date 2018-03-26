@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PUTIN_3V3GND Pin=P14-2
+Removed Pin From Net: NetName=PA3_USART2_RX Pin=P14-4
+Removed Pin From Net: NetName=NRST Pin=P14-8
+Removed Pin From Net: NetName=3V3 Pin=P14-10
+Removed Pin From Net: NetName=PUTIN_3V3GND Pin=P14-12
+Removed Pin From Net: NetName=STM_SWD Pin=P14-14
+Removed Pin From Net: NetName=STM_SWC Pin=P14-16
+Change Component Footprint: Designator=P14 Old Footprint=HDR2X8 New Footprint=HDR1X8
+Change Component Comment : Designator=P14 Old Comment=Header 8X2 New Comment=Header 8
+Added Pin To Net: NetName=STM_SWC Pin=P14-1
+Added Pin To Net: NetName=STM_SWD Pin=P14-2
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=P14-3
+Added Pin To Net: NetName=3V3 Pin=P14-4
+Added Pin To Net: NetName=NRST Pin=P14-5
+Added Pin To Net: NetName=PA3_USART2_RX Pin=P14-7
+Added Pin To Net: NetName=PUTIN_3V3GND Pin=P14-8

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D22 Old Footprint=LC-0805_LED_S1 New Footprint=0603_LED_B
+Change Component Footprint: Designator=D23 Old Footprint=LC-0805_LED_S1 New Footprint=0603_LED_B
+Change Component Footprint: Designator=D24 Old Footprint=LC-0805_LED_S1 New Footprint=0603_LED_B
+Change Component Footprint: Designator=D25 Old Footprint=LC-0805_LED_S1 New Footprint=0603_LED_B
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component P5 Header 8
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

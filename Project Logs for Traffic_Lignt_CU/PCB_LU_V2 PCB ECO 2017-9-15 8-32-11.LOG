@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SW_DI1 Pin=U5-61
+Removed Pin From Net: NetName=SW_DI2 Pin=U5-62
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=P12
+Removed Member From Class: ClassName=SIX-INPORT Member=U3
+Removed Member From Class: ClassName=SIX-INPORT Member=U4
+Removed Member From Class: ClassName=SIX-INPORT Member=U5
+Removed Member From Class: ClassName=SIX-INPORT Member=U6
+Added Pin To Net: NetName=SW_DI2 Pin=U5-61
+Added Pin To Net: NetName=SW_DI1 Pin=U5-62
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component P13 Header 3

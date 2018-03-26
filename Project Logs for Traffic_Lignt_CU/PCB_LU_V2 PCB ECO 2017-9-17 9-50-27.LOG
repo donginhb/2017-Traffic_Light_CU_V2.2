@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=A/D_IN1 Pin=P13-1
+Removed Pin From Net: NetName=A/D_IN2 Pin=P13-2
+Removed Pin From Net: NetName=A/D_IN3 Pin=P13-3
+Removed Pin From Net: NetName=A/D_IN4 Pin=P13-4
+Removed Pin From Net: NetName=A/D_IN5 Pin=P13-5
+Removed Pin From Net: NetName=A/D_IN6 Pin=P13-6
+Removed Pin From Net: NetName=A/D_IN7 Pin=P13-7
+Removed Pin From Net: NetName=A/D_IN8 Pin=P13-8
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=KM1 Old Footprint=012-1H11 New Footprint=Relay-1H11
+Change Component Footprint: Designator=KM2 Old Footprint=012-1H11 New Footprint=Relay-1H11
+Change Component Footprint: Designator=KM3 Old Footprint=012-1H11 New Footprint=Relay-1H11
+Change Component Footprint: Designator=KM4 Old Footprint=012-1H11 New Footprint=Relay-1H11
+Added Component: Designator=KM5(Relay-1H11)
+Added Component: Designator=KM6(Relay-1H11)
+Added Component: Designator=KM7(Relay-1H11)
+Added Component: Designator=KM8(Relay-1H11)
+Added Pin To Net: NetName=PUTIN_12V Pin=KM5-1
+Added Pin To Net: NetName=NetD21_K Pin=KM5-2
+Added Pin To Net: NetName=NetKM5_3 Pin=KM5-3
+Added Pin To Net: NetName=NetKM5_4 Pin=KM5-4
+Added Pin To Net: NetName=PUTIN_12V Pin=KM6-1
+Added Pin To Net: NetName=NetD22_K Pin=KM6-2
+Added Pin To Net: NetName=NetKM6_3 Pin=KM6-3
+Added Pin To Net: NetName=NetKM6_4 Pin=KM6-4
+Added Pin To Net: NetName=PUTIN_12V Pin=KM7-1
+Added Pin To Net: NetName=NetD23_K Pin=KM7-2
+Added Pin To Net: NetName=NetKM7_3 Pin=KM7-3
+Added Pin To Net: NetName=NetKM7_4 Pin=KM7-4
+Added Pin To Net: NetName=PUTIN_12V Pin=KM8-1
+Added Pin To Net: NetName=NetD24_K Pin=KM8-2
+Added Pin To Net: NetName=NetKM8_3 Pin=KM8-3
+Added Pin To Net: NetName=NetKM8_4 Pin=KM8-4
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM5 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM6 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM7 HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM8 HF49FD/012-1H11

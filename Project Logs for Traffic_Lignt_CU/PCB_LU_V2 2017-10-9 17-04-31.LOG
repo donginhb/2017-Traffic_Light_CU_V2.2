@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=ASM1-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=EGND Pin=EC1-1
+Removed Pin From Net: NetName=GND Pin=EC1-2
+Removed Pin From Net: NetName=EGND Pin=EC2-1
+Removed Pin From Net: NetName=GND Pin=EC2-2
+Removed Pin From Net: NetName=EGND Pin=EC3-1
+Removed Pin From Net: NetName=GNDIN Pin=EC3-2
+Removed Pin From Net: NetName=EGND Pin=EC4-1
+Removed Pin From Net: NetName=GNDISO Pin=EC4-2
+Removed Pin From Net: NetName=EGND Pin=ER1-1
+Removed Pin From Net: NetName=GND Pin=ER1-2
+Removed Pin From Net: NetName=EGND Pin=ER2-1
+Removed Pin From Net: NetName=GND Pin=ER2-2
+Removed Pin From Net: NetName=EGND Pin=ER3-1
+Removed Pin From Net: NetName=GNDIN Pin=ER3-2
+Removed Pin From Net: NetName=EGND Pin=ER4-1
+Removed Pin From Net: NetName=GNDISO Pin=ER4-2
+Removed Pin From Net: NetName=3V3 Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Member From Class: ClassName=POWER Member=ASM1
+Removed Member From Class: ClassName=POWER Member=C12
+Removed Member From Class: ClassName=POWER Member=C13
+Removed Member From Class: ClassName=POWER Member=C17
+Removed Member From Class: ClassName=SIX-INPORT Member=C41
+Removed Member From Class: ClassName=SIX-INPORT Member=C46
+Removed Member From Class: ClassName=POWER Member=D6
+Removed Member From Class: ClassName=RS485 Member=D8
+Removed Member From Class: ClassName=POWER Member=D10
+Removed Member From Class: ClassName=SIX-INPORT Member=D10
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D41
+Removed Member From Class: ClassName=POWER Member=EC1
+Removed Member From Class: ClassName=POWER Member=EC2
+Removed Member From Class: ClassName=POWER Member=EC3
+Removed Member From Class: ClassName=POWER Member=EC4
+Removed Member From Class: ClassName=POWER Member=ER1
+Removed Member From Class: ClassName=POWER Member=ER2
+Removed Member From Class: ClassName=POWER Member=ER3
+Removed Member From Class: ClassName=POWER Member=ER4
+Removed Member From Class: ClassName=POWER Member=F4
+Removed Member From Class: ClassName=SIX-INPORT Member=F12
+Removed Member From Class: ClassName=POWER Member=J3
+Removed Member From Class: ClassName=POWER Member=J4
+Removed Member From Class: ClassName=POWER Member=Pmos1
+Removed Member From Class: ClassName=POWER Member=Q1
+Removed Member From Class: ClassName=SIX-INPORT Member=R14
+Removed Member From Class: ClassName=POWER Member=R17
+Removed Member From Class: ClassName=RS485 Member=R17
+Removed Member From Class: ClassName=POWER Member=R24
+Removed Member From Class: ClassName=RS485 Member=R24
+Removed Member From Class: ClassName=POWER Member=R31
+Removed Member From Class: ClassName=RS485 Member=R31
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R54
+Removed Member From Class: ClassName=SIX-INPORT Member=R57
+Removed Member From Class: ClassName=SIX-INPORT Member=R58
+Removed Member From Class: ClassName=SIX-INPORT Member=R59
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R84
+Added Member To Class: ClassName=SIX-INPORT Member=Component C35 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C37 104
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D39 1N4148
+Added Member To Class: ClassName=SIX-INPORT Member=Component F11 JK250-120U
+Added Member To Class: ClassName=RS485 Member=Component R12 1K
+Added Member To Class: ClassName=RS485 Member=Component R13 120R
+Added Member To Class: ClassName=RS485 Member=Component R14 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R54 Res1
+Added Member To Class: ClassName=SIX-INPORT Member=Component R55 1K
+Added Member To Class: ClassName=SIX-INPORT Member=Component R56 4302/1W
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R78 2K

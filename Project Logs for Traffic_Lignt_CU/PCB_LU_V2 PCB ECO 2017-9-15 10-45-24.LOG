@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCCIN5V Pin=B1-2
+Removed Pin From Net: NetName=VCCIN5V Pin=C9-1
+Removed Pin From Net: NetName=VCCIN5V Pin=E7-1
+Removed Pin From Net: NetName=VCCIN5V Pin=L2-1
+Removed Pin From Net: NetName=GNDIN Pin=P2-1
+Removed Pin From Net: NetName=VCCIN5V Pin=P2-2
+Removed Pin From Net: NetName=VCCIN5V Pin=VCCIN1-1
+Added Pin To Net: NetName=GNDIN Pin=P2-2
+Change Net Name : Old Net Name=VCCIN5V New Net Name=NetC2_2
+Added Pin To Net: NetName=VCCIN5V Pin=B1-2
+Added Pin To Net: NetName=VCCIN5V Pin=C9-1
+Added Pin To Net: NetName=VCCIN5V Pin=E7-1
+Added Pin To Net: NetName=VCCIN5V Pin=L2-1
+Added Pin To Net: NetName=VCCIN5V Pin=P2-1
+Added Pin To Net: NetName=VCCIN5V Pin=VCCIN1-1
+Added Net: Name=VCCIN5V

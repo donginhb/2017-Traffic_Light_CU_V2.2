@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X12 New Footprint=HDR_5.0_20P
+Change Component Comment : Designator=P4 Old Comment=Header 12H New Comment=Header 20
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

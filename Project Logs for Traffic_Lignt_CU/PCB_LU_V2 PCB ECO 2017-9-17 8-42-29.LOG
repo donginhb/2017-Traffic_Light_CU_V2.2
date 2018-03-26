@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Y1 Old Footprint=LC-HC-49SMD New Footprint=LC-SMD-5032_2P
+Change Component Designator: OldDesignator=.5 NewDesignator=C21
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

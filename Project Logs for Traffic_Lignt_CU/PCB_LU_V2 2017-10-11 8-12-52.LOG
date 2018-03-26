@@ -1,0 +1,30 @@
+Removed Member From Class: ClassName=RS485 Member=C4
+Removed Member From Class: ClassName=SIX-INPORT Member=C4
+Removed Member From Class: ClassName=SIX-INPORT Member=C8
+Removed Member From Class: ClassName=SIX-INPORT Member=C9
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=C33
+Removed Member From Class: ClassName=RS485 Member=D7
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=D20
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=D37
+Removed Member From Class: ClassName=SIX-INPORT Member=F3
+Removed Member From Class: ClassName=SIX_OUTPORT-V2 Member=R53
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=R75
+Removed Member From Class: ClassName=STM32F103最小系统板 Member=R77
+Added Pin To Net: NetName=PA9_USART1_TX Pin=D40-2
+Added Pin To Net: NetName=PA10_USART1_RX Pin=D42-2
+Added Pin To Net: NetName=PA9_USART1_TX Pin=R83-1
+Added Pin To Net: NetName=PA10_USART1_RX Pin=R84-1
+Added Member To Class: ClassName=RS485 Member=Component C10 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C11 104
+Added Member To Class: ClassName=SIX-INPORT Member=Component C12 10uf/16V
+Added Member To Class: ClassName=SIX-INPORT Member=Component C13 10uf/16V
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component C36 22pF
+Added Member To Class: ClassName=RS485 Member=Component D8 绿灯 0603
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D22 1N4148
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D39 绿灯 0603
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D42 Diode-Z
+Added Member To Class: ClassName=SIX-INPORT Member=Component F4 Fuse1
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component R56 2K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R78 10K
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R80 10K
+Added Room: Name=STM32F103最小系统板

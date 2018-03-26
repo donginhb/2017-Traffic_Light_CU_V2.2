@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SW_DI1 Pin=U5-37
+Removed Pin From Net: NetName=SW_DI2 Pin=U5-38
+Removed Pin From Net: NetName=SW_DI3 Pin=U5-39
+Added Pin To Net: NetName=SW_DI1 Pin=U5-40
+Added Pin To Net: NetName=SW_DI2 Pin=U5-41
+Added Pin To Net: NetName=SW_DI3 Pin=U5-44

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=A/D_IN8 Pin=P7-1
+Removed Pin From Net: NetName=A/D_IN7 Pin=P7-2
+Removed Pin From Net: NetName=A/D_IN6 Pin=P7-3
+Removed Pin From Net: NetName=A/D_IN5 Pin=P7-4
+Removed Pin From Net: NetName=A/D_IN4 Pin=P7-5
+Removed Pin From Net: NetName=A/D_IN3 Pin=P7-6
+Removed Pin From Net: NetName=A/D_IN2 Pin=P7-7
+Removed Pin From Net: NetName=A/D_IN1 Pin=P7-8
+Added Pin To Net: NetName=A/D_IN1 Pin=P7-1
+Added Pin To Net: NetName=A/D_IN2 Pin=P7-2
+Added Pin To Net: NetName=A/D_IN3 Pin=P7-3
+Added Pin To Net: NetName=A/D_IN4 Pin=P7-4
+Added Pin To Net: NetName=A/D_IN5 Pin=P7-5
+Added Pin To Net: NetName=A/D_IN6 Pin=P7-6
+Added Pin To Net: NetName=A/D_IN7 Pin=P7-7
+Added Pin To Net: NetName=A/D_IN8 Pin=P7-8
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103最小系统板

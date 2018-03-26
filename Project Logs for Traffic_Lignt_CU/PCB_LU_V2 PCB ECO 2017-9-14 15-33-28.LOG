@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=D28 Old Footprint=0603_LED_G New Footprint=LC-0603_LED_S1
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component P5 Header 8

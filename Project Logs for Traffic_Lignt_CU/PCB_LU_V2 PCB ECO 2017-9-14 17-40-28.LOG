@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SW_DI4 Pin=U9-20
+Removed Pin From Net: NetName=SW_DI3 Pin=U9-21
+Removed Pin From Net: NetName=SW_DI2 Pin=U9-22
+Removed Pin From Net: NetName=SW_DI1 Pin=U9-23
+Change Component Comment : Designator=Y1 Old Comment=X49SM8MSD2SI New Comment=25M
+Added Pin To Net: NetName=SW_DI4 Pin=U9-3
+Added Pin To Net: NetName=SW_DI3 Pin=U9-4
+Added Pin To Net: NetName=SW_DI1 Pin=U9-61
+Added Pin To Net: NetName=SW_DI2 Pin=U9-62
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component P5 Header 8

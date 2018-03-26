@@ -1,0 +1,11 @@
+Added Component: Designator=D30(LC-0603_LED_S1)
+Added Component: Designator=R77(LC-0603_R)
+Added Pin To Net: NetName=3V3 Pin=R77-1
+Added Pin To Net: NetName=LD2 Pin=D30-K
+Added Pin To Net: NetName=LD2 Pin=U5-45
+Added Net: Name=LD2
+Added Pin To Net: NetName=NetD30_A Pin=D30-A
+Added Pin To Net: NetName=NetD30_A Pin=R77-2
+Added Net: Name=NetD30_A
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component D30 绿灯 0603
+Added Member To Class: ClassName=STM32F103最小系统板 Member=Component R77 1K

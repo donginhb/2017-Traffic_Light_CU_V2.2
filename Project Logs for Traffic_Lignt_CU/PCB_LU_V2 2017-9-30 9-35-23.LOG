@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=V_RELAY Pin=KM?-1
+Removed Pin From Net: NetName=NetD23_K Pin=KM?-2
+Removed Pin From Net: NetName=NetD23_K Pin=KM?-2
+Removed Pin From Net: NetName=KM1- Pin=KM?-3
+Removed Pin From Net: NetName=KM1- Pin=KM?-3
+Removed Pin From Net: NetName=KM1+ Pin=KM?-4
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM? HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM? HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM? HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM? HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM? HF49FD/012-1H11
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component KM? HF49FD/012-1H11

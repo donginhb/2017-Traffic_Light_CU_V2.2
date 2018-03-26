@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=A/D_IN9 Pin=C28-2
+Removed Pin From Net: NetName=A/D_IN9 Pin=C29-2
+Removed Pin From Net: NetName=A/D_IN11 Pin=C31-2
+Removed Pin From Net: NetName=A/D_IN11 Pin=C32-2
+Removed Pin From Net: NetName=PC5_2 Pin=R44-1
+Removed Pin From Net: NetName=PC6_2 Pin=R49-1
+Removed Member From Class: ClassName=SIX-INPORT Member=C28
+Removed Member From Class: ClassName=SIX-INPORT Member=C29
+Removed Member From Class: ClassName=SIX-INPORT Member=C31
+Removed Member From Class: ClassName=SIX-INPORT Member=C32
+Removed Member From Class: ClassName=SIX-INPORT Member=R44
+Removed Member From Class: ClassName=SIX-INPORT Member=R49
+Added Pin To Net: NetName=PC5_2 Pin=D18-2
+Added Pin To Net: NetName=PC6_2 Pin=D19-2
+Added Pin To Net: NetName=PC5_2 Pin=F9-2
+Added Pin To Net: NetName=PC6_2 Pin=F10-2
+Change Net Name : Old Net Name=PC5_2 New Net Name=A/D_IN10-2
+Change Net Name : Old Net Name=PC6_2 New Net Name=A/D_IN12-2

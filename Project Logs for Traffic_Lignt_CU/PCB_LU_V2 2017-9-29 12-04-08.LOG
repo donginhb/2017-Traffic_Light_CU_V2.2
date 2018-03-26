@@ -1,0 +1,75 @@
+Change Component Designator: OldDesignator=D22 NewDesignator=D23
+Change Component Designator: OldDesignator=D23 NewDesignator=D26
+Change Component Designator: OldDesignator=D24 NewDesignator=D28
+Change Component Designator: OldDesignator=D25 NewDesignator=D30
+Change Component Designator: OldDesignator=D26 NewDesignator=D31
+Change Component Designator: OldDesignator=D27 NewDesignator=D33
+Change Component Designator: OldDesignator=D28 NewDesignator=D35
+Change Component Designator: OldDesignator=D29 NewDesignator=D37
+Change Component Designator: OldDesignator=D30 NewDesignator=D39
+Change Component Designator: OldDesignator=D31 NewDesignator=D40
+Change Component Designator: OldDesignator=D32 NewDesignator=D41
+Change Component Designator: OldDesignator=D33 NewDesignator=D42
+Change Component Designator: OldDesignator=D34 NewDesignator=D43
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=P5 NewDesignator=P2
+Change Component Designator: OldDesignator=P10 NewDesignator=P3
+Change Component Designator: OldDesignator=VCCIN5V NewDesignator=VCCIN1
+Added Component: Designator=D22(LC-LL-34)
+Added Component: Designator=D24(LC-LL-34)
+Added Component: Designator=D27(LC-LL-34)
+Added Component: Designator=D29(LC-LL-34)
+Added Component: Designator=D32(LC-LL-34)
+Added Component: Designator=D34(LC-LL-34)
+Added Component: Designator=D36(LC-LL-34)
+Added Component: Designator=D38(LC-LL-34)
+Added Pin To Net: NetName=KM1- Pin=D22-1
+Added Pin To Net: NetName=KM1+ Pin=D22-2
+Added Pin To Net: NetName=KM2- Pin=D24-1
+Added Pin To Net: NetName=KM2+ Pin=D24-2
+Added Pin To Net: NetName=KM3- Pin=D27-1
+Added Pin To Net: NetName=KM3+ Pin=D27-2
+Added Pin To Net: NetName=KM4- Pin=D29-1
+Added Pin To Net: NetName=KM4+ Pin=D29-2
+Added Pin To Net: NetName=KM5- Pin=D32-1
+Added Pin To Net: NetName=KM5+ Pin=D32-2
+Added Pin To Net: NetName=KM6- Pin=D34-1
+Added Pin To Net: NetName=KM6+ Pin=D34-2
+Added Pin To Net: NetName=KM7- Pin=D36-1
+Added Pin To Net: NetName=KM7+ Pin=D36-2
+Added Pin To Net: NetName=KM8- Pin=D38-1
+Added Pin To Net: NetName=KM8+ Pin=D38-2
+Change Net Name : Old Net Name=NetD22_A New Net Name=NetD23_A
+Change Net Name : Old Net Name=NetD22_K New Net Name=NetD23_K
+Change Net Name : Old Net Name=NetD23_A New Net Name=NetD26_A
+Change Net Name : Old Net Name=NetD23_K New Net Name=NetD26_K
+Change Net Name : Old Net Name=NetD24_A New Net Name=NetD28_A
+Change Net Name : Old Net Name=NetD24_K New Net Name=NetD28_K
+Change Net Name : Old Net Name=NetD25_A New Net Name=NetD30_A
+Change Net Name : Old Net Name=NetD25_K New Net Name=NetD30_K
+Change Net Name : Old Net Name=NetD26_A New Net Name=NetD31_A
+Change Net Name : Old Net Name=NetD26_K New Net Name=NetD31_K
+Change Net Name : Old Net Name=NetD27_A New Net Name=NetD33_A
+Change Net Name : Old Net Name=NetD27_K New Net Name=NetD33_K
+Change Net Name : Old Net Name=NetD28_A New Net Name=NetD35_A
+Change Net Name : Old Net Name=NetD28_K New Net Name=NetD35_K
+Change Net Name : Old Net Name=NetD29_A New Net Name=NetD37_A
+Change Net Name : Old Net Name=NetD29_K New Net Name=NetD37_K
+Change Net Name : Old Net Name=NetD30_A New Net Name=NetD39_A
+Change Net Name : Old Net Name=NetD31_A New Net Name=NetD40_A
+Change Net Name : Old Net Name=NetD32_A New Net Name=NetD41_A
+Change Net Name : Old Net Name=NetD33_A New Net Name=NetD42_A
+Change Net Name : Old Net Name=NetD34_K New Net Name=NetD43_K
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D31 °×µÆ 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D32 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D33 °×µÆ 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D34 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D35 °×µÆ 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D36 1N4148
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D37 °×µÆ 0805
+Added Member To Class: ClassName=SIX_OUTPORT-V2 Member=Component D38 1N4148
+Added Room: Name=POWER
+Added Room: Name=RS485
+Added Room: Name=SIX-INPORT
+Added Room: Name=SIX_OUTPORT-V2
+Added Room: Name=STM32F103×îÐ¡ÏµÍ³°å
